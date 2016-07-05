@@ -4,9 +4,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
 import test.sneha.DriverManager;
 
-/**
- * Created by ${Sneha} on 05/07/2016.
- */
+
 public class TraveleX_Homepage extends DriverManager {
 
 	@FindBy(xpath = "html/body/div[1]/div[3]/div/section[2]/article/div[1]/ul/li[2]/button")

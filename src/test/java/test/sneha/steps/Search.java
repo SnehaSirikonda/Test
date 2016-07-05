@@ -8,9 +8,7 @@ import cucumber.api.java.en.When;
 import test.sneha.page_objects.HomePage;
 import test.sneha.page_objects.ResultsPage;
 
-/**
- * Created by ${Sneha} on 05/07/2016.
- */
+
 public class Search {
 	HomePage homePage;
 	ResultsPage resultsPage;

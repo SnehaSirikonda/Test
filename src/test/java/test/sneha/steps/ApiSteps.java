@@ -6,9 +6,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import test.sneha.ApiManager;
 
-/**
- * Created by ${Sneha} on 05/07/2016.
- */
+
 public class ApiSteps {
 	Response response;
 	ApiManager apiManager;
